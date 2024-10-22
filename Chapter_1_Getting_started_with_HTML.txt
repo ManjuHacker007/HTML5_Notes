@@ -1,0 +1,5 @@
+Hypertext Markup Language
+created a simple page
+
+html file extensions are .html or .htm[2]
+
