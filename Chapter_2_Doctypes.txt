@@ -1,0 +1,8 @@
+document type help browser to understand version of HTML.
+Doctype declaration is not HTML tag, it's top of a document.
+
+<!DOCTYPE> for version greater than or equal to 5
+
+<!DOCTYPE html>
+
+it's not case sensitive, so it's not mandatory to put all in capital letters.
