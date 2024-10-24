@@ -1,0 +1,11 @@
+we have heading 1 to heading 6
+total 6 range of headings
+
+<h1> means most important heading also biggest
+<h6> is least important heading also smallest
+
+<h1> heading 1 </h1> - this is how we write the code
+
+correct structure of heading's is important,
+normally in a web-page we use only 1 <h1> tag.
+and all other heading's will be <h2> to <h6>
