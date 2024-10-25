@@ -1,0 +1,9 @@
+<p>        -> paragraph
+<br>       -> single line break
+<pre>      -> defines pre-formatted text
+
+<p> this is paragraph </p>
+
+giving extra spaces doesn't work - 
+<p> this                     is                    paragraph </p>
+
